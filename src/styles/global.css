@@ -1,0 +1,16 @@
+html {
+  background-color: whitesmoke;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: steelblue;
+}
+
+
+a:hover {
+  text-decoration: underline steelblue;
+  color: white;
+  background-color: steelblue;
+}
+
